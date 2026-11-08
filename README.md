@@ -53,7 +53,7 @@ Commercial, cloud-hosted Unified Test Reporting, Test Analytics, and TestOps pla
 
 ## 🟩 Open-Source Software
 
-Self-hosted, community-driven Unified Test Reporting, Test Management, and TestOps tools. All listed projects provide public source code deployable on your own infrastructure, sorted by GitHub stars (descending).
+Self-hosted, community-driven Unified Test Reporting, Test Management, and TestOps tools. All listed projects provide public source code deployable on your own infrastructure, sorted by GitHub_Stars (descending).
 
 ### 1. 🏆 Allure Report
 [![Stars](https://img.shields.io/github/stars/allure-framework/allure2?style=social&color=white)](https://github.com/allure-framework/allure2/stargazers)  
